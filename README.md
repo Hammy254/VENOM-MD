@@ -29,12 +29,12 @@ Join our WhatsApp channel for updates and discussions!
 
 2.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (ℙ𝔸𝕀ℝ𝕀ℕ𝔾)
     <br>
-<a href='https://venom-pairing.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+<a href='https://venom-session.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 
 3.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (𝕊ℂ𝔸ℕ ℚℝ)
     <br>
-<a href='https://venom-pairing.onrender.com/Qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+<a href='https://venom-session.onrender.com/Qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 ## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔
 <h1 align="center">
